@@ -1,11 +1,6 @@
 # practical-ML
-
-Practical Machine Learning Project by Akanksha Mishra 
 =================================================================
-07th May, '20
 ==================================================================
-
-### Link to the Report published on RPubs: http://rpubs.com/kaanksh/practicalML
 
 #### Instructions
 
